@@ -22,7 +22,6 @@ A test file structure is provided which contains the folder structure as follows
     |-- dir2
     |   |-- dir21
     |   |-- dir22
-    |   |   |-- 221
     |   |   `-- file221.txt
     |   `-- file21.txt
     |-- file1.txt
