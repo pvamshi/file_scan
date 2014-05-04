@@ -8,6 +8,7 @@ For example:
 A test file structure is provided which contains the folder structure as follows : 
 
  test_files
+ 
     |-- dir1
     |   |-- dir11
     |   |   |-- file111.txt
